@@ -1,0 +1,2 @@
+# Dataset
+## Dataset used for the following project is a standard dataset namely : <a href="https://www.kaggle.com/datasets/kaushil268/disease-prediction-using-machine-learning">Disease Prediction Using Machine Learning</a>
